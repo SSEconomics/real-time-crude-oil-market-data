@@ -104,17 +104,17 @@ We distinguish the data by 5 different colors based on the way that the data is 
 * **Orange:** This is the case where we were not able to observe the actual data itself and had to use information to that point in time to fill in missing values.
 * **Purple:** Used to show in Baumeister and Kilian (2012) where revisions occurred but were not reflected in the data.
 
-## Quick Start: Code & Examples
+## Quick Start: Code & Examples *(Coming Soon!)*
 
-To ensure broad accessibility, starter code is provided in both **R** and **Stata**.
+To ensure broad accessibility, starter code will be provided in both **R** and **Stata**. These scripts are currently in development and will be uploaded shortly.
 
 ### [R Users]
 
-See `scripts/analysis_r.R`.
+See `scripts/analysis_r.R` *(Coming Soon)*.
 
 ### [Stata Users]
 
-See `scripts/analysis_stata.do`.
+See `scripts/analysis_stata.do` *(Coming Soon)*.
 
 ## Replication Materials
 
