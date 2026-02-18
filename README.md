@@ -116,3 +116,10 @@ See `scripts/analysis_r.R`.
 
 See `scripts/analysis_stata.do`.
 
+## Replication Materials
+
+This repository is maintained as a living dataset for ongoing research and forecasting. If you are looking to perfectly replicate the results of the original papers, please use the static replication packages available on my [research page](https://stephensnudden.com/research/):
+
+* [Replication Package: Benyo et al. (2026) - *A reappraisal of real-time forecasts of the real price of oil*](https://doi.org/10.3886/E218641V4)
+
+
